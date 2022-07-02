@@ -1,0 +1,39 @@
+header
+    header__icon icon--active
+    header__label
+    header__nav
+        header__nav-link
+    header__btn
+
+main
+    main__about
+        main__title
+        main__image
+        main__text
+    main__people
+         main__list
+            main__items
+                 main__images
+                    main__image-btns
+                    btn btn--w--icon
+                    btn btn--twitter
+                    btn btn--facebook
+                    btn btn--instagram
+            main__title
+            main__text
+    
+footer
+    footer__icon
+    footer__label
+    footer__nav
+    footer__nav-link
+        footer__list
+            footer__items
+                footer__images
+                   footer__btns 
+                     btn btn--w--icon
+                    btn btn--twitter
+                    btn btn--facebook
+                    btn btn--instagram
+                    btn btn--in
+                    btn btn--telegram
